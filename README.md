@@ -1,4 +1,4 @@
-# sho-blueprints
+# blueprint-B200-NINA-B1
 
 Copyright (C) u-blox 
 
