@@ -10,9 +10,11 @@ An iPhone app is available that can be used to test features on the blueprint. T
 the accelerometer and gyro data as a rotating 3D image of the NINA module. The app can also control the red and green LED and 
 it display the temperature, RSSI value and battery level.
 
-This app is available on the App Store.
+This app is available on the App Store and github.
 
 https://itunes.apple.com/us/app/u-blox-ble/id575523395?mt=8
+
+https://github.com/u-blox/iOS-u-blox-BLE
 
 https://www.u-blox.com/
 
